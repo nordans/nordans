@@ -21,18 +21,7 @@ Currently studying at DSW University and growing my DevOps toolkit day by day.
 ## 🛠 Tech Stack
 
 <div align="center">
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="GitLab" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,gitlab,bash,python,java,cpp" alt="Tech Stack" />
 </div>
 
 ---
@@ -75,8 +64,21 @@ Currently studying at DSW University and growing my DevOps toolkit day by day.
 
 ---
 
+## 📈 Visitor Counter
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nordans&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
 ## 📫 Let's Connect
-- 🌐 Website: [normandev.xyz](https://normandev.xyz)
-- 📧 Email: Norman6006@gmail.com
+<p align="left">
+  <a href="https://normandev.xyz" target="_blank">
+    <img src="https://img.shields.io/badge/Website-normandev.xyz-blue?style=for-the-badge&logo=google-chrome" alt="Website Badge"/>
+  </a>
+  <a href="mailto:Norman6006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Norman6006@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email Badge"/>
+  </a>
+</p>
 
 ---
