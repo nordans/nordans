@@ -61,6 +61,20 @@ Currently studying at DSW University and growing my DevOps toolkit day by day.
 
 ---
 
+## 📊 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nordans&layout=compact&theme=default" alt="Top Languages" />
+</p>
+
+---
+
+## 🐍 GitHub Activity Snake
+<p align="center">
+  <img src="https://github.com/nordans/nordans/raw/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+</p>
+
+---
+
 ## 📫 Let's Connect
 - 🌐 Website: [normandev.xyz](https://normandev.xyz)
 - 📧 Email: Norman6006@gmail.com
