@@ -26,11 +26,24 @@ Currently studying at DSW University and growing my DevOps toolkit day by day.
 
 ---
 
-## 📚 Certification
-**DevOps Beginners to Advanced with Projects (Udemy, 53.5h)**  
-![Udemy Certificate](https://udemy-certificate.s3.amazonaws.com/image/UC-3c30763b-6a25-4be8-b347-b56bcfa57c2d.jpg?v=1745859404000)
+## 📚 Certifications
 
-[🔗 View Certificate Online](https://ude.my/UC-3c30763b-6a25-4be8-b347-b56bcfa57c2d)
+<p align="center">
+  <a href="https://ude.my/UC-3c30763b-6a25-4be8-b347-b56bcfa57c2d" target="_blank">
+    <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-3c30763b-6a25-4be8-b347-b56bcfa57c2d.jpg?v=1745859404000" width="400" alt="DevOps Certificate #1"/>
+  </a>
+  <br/>
+  <strong>DevOps Beginners to Advanced with Projects (53.5h)</strong>
+</p>
+
+<p align="center">
+  <a href="https://ude.my/UC-5f037c6d-501d-414f-bd53-85723d2c3857" target="_blank">
+    <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-5f037c6d-501d-414f-bd53-85723d2c3857.jpg" width="400" alt="DevOps Certificate #2"/>
+  </a>
+  <br/>
+  <strong>DevOps Project Real Use Cases - 2023 Hands-on Bootcamp</strong>
+</p>
+
 
 ---
 
