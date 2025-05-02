@@ -41,7 +41,7 @@ Currently studying at DSW University and growing my DevOps toolkit day by day.
     <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-5f037c6d-501d-414f-bd53-85723d2c3857.jpg" width="400" alt="DevOps Certificate #2"/>
   </a>
   <br/>
-  <strong>DevOps Project Real Use Cases - 2023 Hands-on Bootcamp</strong>
+  <strong>AZ-104 - Administrator Azure - Tożsamość i bezpieczeństwo</strong>
 </p>
 
 
