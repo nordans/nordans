@@ -45,6 +45,14 @@ Currently studying at DSW University and growing my DevOps toolkit day by day.
         <sub><strong>AZ-104 – Azure Identity & Security</strong></sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/be0d861a-6fe2-44ff-920e-a4af748a4885/public_url" target="_blank">
+        <img src="https://images.credly.com/size/340x340/images/684f5a00-f4d4-43a2-bf6a-0cfd8f7f7907/image.png" width="200" alt="AWS Cloud Practitioner Badge"/>
+        <br/>
+        <sub><strong>AWS Certified Cloud Practitioner</strong></sub><br/>
+        <sub><em>Issued: May 2025</em></sub>
+      </a>
+    </td>
   </tr>
 </table>
 
